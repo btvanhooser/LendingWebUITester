@@ -1,0 +1,11 @@
+c:\users\brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\bin\Debug\Lending Web UI Tester.exe.config
+c:\users\brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\bin\Debug\Lending Web UI Tester.exe
+c:\users\brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\bin\Debug\Lending Web UI Tester.pdb
+c:\users\brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\bin\Debug\WebDriver.dll
+c:\users\brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\bin\Debug\WebDriver.xml
+c:\users\brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\obj\Debug\Lending Web UI Tester.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\obj\Debug\Lending Web UI Tester.exe
+c:\users\brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\obj\Debug\Lending Web UI Tester.pdb
+C:\Users\Brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\bin\Debug\WebDriver.Support.dll
+C:\Users\Brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\bin\Debug\WebDriver.Support.xml
+C:\Users\Brian\documents\visual studio 2015\Projects\Lending Web UI Tester\Lending Web UI Tester\obj\Debug\Lending Web UI Tester.csproj.ResolveComReference.cache
